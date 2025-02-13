@@ -1,0 +1,6 @@
+/home/sai/Escritorio/code/cSharp/itla-3-edad/itla-3-divisible/bin/Debug/itla-3-divisible.exe
+/home/sai/Escritorio/code/cSharp/itla-3-edad/itla-3-divisible/bin/Debug/itla-3-divisible.pdb
+/home/sai/Escritorio/code/cSharp/itla-3-edad/itla-3-divisible/obj/anycpu/Debug/itla-3-divisible.csproj.AssemblyReference.cache
+/home/sai/Escritorio/code/cSharp/itla-3-edad/itla-3-divisible/obj/anycpu/Debug/itla-3-divisible.csproj.CoreCompileInputs.cache
+/home/sai/Escritorio/code/cSharp/itla-3-edad/itla-3-divisible/obj/anycpu/Debug/itla-3-divisible.exe
+/home/sai/Escritorio/code/cSharp/itla-3-edad/itla-3-divisible/obj/anycpu/Debug/itla-3-divisible.pdb
